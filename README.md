@@ -51,12 +51,11 @@
 ![Screenshot 2023-11-21 050352](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/0718ac0d-fd4a-40b2-b150-4f79eec46c97)
 ![Screenshot 2023-11-21 051356](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/e7048c5b-a9a0-4e68-af5f-ac51462eb285)
 ![Screenshot 2023-11-21 092152](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/e6db88d2-f5cd-4f10-abcb-8ef1890f4424)
-![Screenshot 2023-11-21 051519](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/f26888e7-79fa-4417-96bd-0cdc1a6a0f59)
-![Screenshot 2023-11-21 051537](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/72647fa1-a67c-47e2-ba9c-964e941d25a5)
-![Screenshot 2023-11-21 084936-1](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/5c8612fd-cfa9-4843-a1fc-f3f7e3ae6e40)
-
+![Screenshot 2024-01-02 175241](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/ef8dfb59-68e7-496c-8b48-2724386b2d67)
+![Screenshot 2023-11-21 084936](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/6af03c0f-a724-445b-8df5-9703e3acba02)
 
 ## Output:
+![Screenshot 2024-01-02 175300](https://github.com/rdivyav/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148604723/00f530a4-7468-479a-827e-9feced49b6af)
 
 ### Name:Divya R V 
 ### Register Number:23014030
